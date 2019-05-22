@@ -1,0 +1,4 @@
+#Wed May 22 12:11:14 PDT 2019
+base.0=/Users/adinesh/SJSU/Android_Projects/Flutter_CafeSearch/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
